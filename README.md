@@ -94,6 +94,9 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 
 A structured roadmap to master Data Structures and Algorithms from scratch using this repository.
 
+> [!TIP]
+> **View the Complete 24-Week Roadmap**: For a granular, week-by-week guide with missions and curated problems, check out the **[Detailed STUDY_PLAN.md](STUDY_PLAN.md)**.
+
 | Month | Focus Area | Key Patterns | Featured Problems |
 | :--- | :--- | :--- | :--- |
 | **Month 1** | **Arrays & Basic Logic** | Sliding Window, Two Pointers, Binary Search | [TwoSumSorted.swift](file:///Array/TwoPointer/OppositeEnds/TwoSumSorted.swift), [LongestSubstringNoRepeat.swift](file:///String/SlidingWindow/LongestSubstring/LongestSubstringNoRepeat.swift), [BinarySearchFindRange.swift](file:///SearchingAlgorithms/BinarySearch/BinarySearchFindRange.swift) |
