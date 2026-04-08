@@ -1,0 +1,29 @@
+# Dependencies
+.swiftpm
+.build/
+
+# IDE files
+.DS_Store
+.vscode/
+.idea/
+*.swp
+*.orig
+
+# Build artifacts
+DerivedData/
+*.o
+*.obj
+*.exe
+*.out
+*.dylib
+
+# App Data (Internal)
+.gemini/
+.agents/
+.agent/
+_agents/
+_agent/
+*.md_intermediate
+walkthrough.md
+task.md
+implementation_plan.md
