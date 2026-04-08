@@ -10,6 +10,44 @@ A comprehensive, pattern-driven repository for mastering Data Structures and Alg
 - **Clean & Documented**: Code follows Swift's best practices with detailed headers and complexity analysis for every solution.
 - **Test-Ready**: Integrated test cases at the end of each file for local verification.
 
+## 🗺️ Recommended Study Path
+
+To master these patterns effectively, we recommend following this hierarchical path. Each level builds the foundation for the next:
+
+```mermaid
+graph TD
+    subgraph Phase 1: Linear Foundations
+    A[Arrays & Strings] --> B[Linked Lists]
+    B --> C[Stacks & Queues]
+    end
+
+    subgraph Phase 2: Algorithmic Logic
+    C --> D[Two Pointers & Sliding Window]
+    D --> E[Sorting & Searching]
+    E --> F[Recursion & Backtracking]
+    end
+
+    subgraph Phase 3: Hierarchical Structures
+    F --> G[Trees & BST]
+    G --> H[Heaps & Priority Queues]
+    G --> I[Tries]
+    end
+
+    subgraph Phase 4: Complex Networks
+    H --> J[Graphs & Traversal]
+    I --> J
+    J --> K[Shortest Path & MST]
+    K --> L[Greedy Patterns]
+    end
+
+    subgraph Phase 5: Advanced Optimization
+    L --> M[Dynamic Programming]
+    end
+
+    style A fill:#f9f,stroke:#333,stroke-width:2px
+    style M fill:#69f,stroke:#333,stroke-width:4px
+```
+
 ## 📂 Repository Structure
 
 The repository follows a granular hierarchy for efficient navigation:
