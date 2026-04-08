@@ -90,5 +90,18 @@ Maximal Rectangle Area: 6
 
 This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
 
+## 📅 6-Month Study Guide
+
+A structured roadmap to master Data Structures and Algorithms from scratch using this repository.
+
+| Month | Focus Area | Key Patterns | Featured Problems |
+| :--- | :--- | :--- | :--- |
+| **Month 1** | **Arrays & Basic Logic** | Sliding Window, Two Pointers, Binary Search | [TwoSumSorted.swift](file:///Array/TwoPointer/OppositeEnds/TwoSumSorted.swift), [LongestSubstringNoRepeat.swift](file:///String/SlidingWindow/LongestSubstring/LongestSubstringNoRepeat.swift), [BinarySearchFindRange.swift](file:///SearchingAlgorithms/BinarySearch/BinarySearchFindRange.swift) |
+| **Month 2** | **Linear Data Structures** | Linked Lists, Valid Parentheses, Monotonic Stack | [ReverseLinkedList.swift](file:///LinkedList/ReverseLinkedList.swift), [ValidParentheses.swift](file:///Stack/ExpressionHandling/ValidParentheses.swift), [NextGreaterElement.swift](file:///Stack/MonotonicStack/Decreasing/NextGreaterElement.swift) |
+| **Month 3** | **Hierarchical Structures** | Trees, BST, LCA, Path Sums | [DiameterOfBinaryTree.swift](file:///Trees/PathBased/Diameter_Height_Depth/DiameterOfBinaryTree.swift), [ValidateBST.swift](file:///Trees/BST/ValidateBST.swift), [LowestCommonAncestor.swift](file:///Trees/RecursionPatterns/BottomUp/LowestCommonAncestor.swift) |
+| **Month 4** | **Heaps & Tries** | Top K, Priority Queues, Prefix Matching | [KthLargestElement.swift](file:///Heap/Kth_Element/KthLargestElement.swift), [MergeKSortedLists.swift](file:///Recursion/Divide_Conquer/MergeSortPattern/MergeKSortedLists.swift), [ImplementTrie.swift](file:///Trie/PrefixSearch/ImplementTrie.swift) |
+| **Month 5** | **Graph Theory** | BFS, DFS, Shortest Paths, Union-Find | [MaxAreaOfIsland.swift](file:///Graphs/ConnectedComponents/MaxAreaOfIsland.swift), [DijkstraAlgorithm.swift](file:///Graphs/ShortestPath/Dijkstra/DijkstraAlgorithm.swift), [RedundantConnection.swift](file:///Graphs/UnionFind_DSU/RedundantConnection.swift) |
+| **Month 6** | **Optimization & Greedy** | Backtracking, Greedy Selection, MST | [NQueens.swift](file:///Recursion/Backtracking/Pruning_StateTracking/NQueens.swift), [FractionalKnapsack.swift](file:///Greedy/FractionalKnapsack/FractionalKnapsack_ItemSorting.swift), [KruskalAlgorithm.swift](file:///Graphs/SpanningTree/Kruskal/KruskalAlgorithm.swift) |
+
 ---
 *Created with ❤️ for the Swift Developer Community.*
